@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Etiquetas e Endereços</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Etiquetas e Endereços</h1>
+    <table id="tabelaEtiquetas">
+      <tr>
+        <th>N° Sequencial</th>
+        <th>Etiqueta</th>
+        <th>Endereço</th>
+      </tr>
+    </table>
+    <h2>Adicionar Nova Etiqueta</h2>
+    <form onsubmit="adicionarEtiqueta(); return false;">
+      <label for="inputEtiqueta">Etiqueta:</label>
+      <input type="text" id="inputEtiqueta" required>
+      <label for="inputEndereco">Endereço:</label>
+      <input type="text" id="inputEndereco" required>
+      <button type="submit">Adicionar</button>
+    </form>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>

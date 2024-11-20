@@ -1,0 +1,86 @@
+[
+  {
+    "sequencial": 1,
+    "etiqueta": "111111111111",
+    "endereco": "1111111",
+    "dataHora": "2024-11-20T18:01:41.291Z"
+  },
+  {
+    "sequencial": 2,
+    "etiqueta": "111111111111",
+    "endereco": "1",
+    "dataHora": "2024-11-20T18:08:44.424Z"
+  },
+  {
+    "sequencial": 3,
+    "etiqueta": "111111111111",
+    "endereco": "111111111111",
+    "dataHora": "2024-11-20T18:09:15.547Z"
+  },
+  {
+    "sequencial": 4,
+    "etiqueta": "123456789101",
+    "endereco": "1232111",
+    "dataHora": "2024-11-20T18:48:29.365Z"
+  },
+  {
+    "sequencial": 5,
+    "etiqueta": "123456789101",
+    "endereco": "1111111",
+    "dataHora": "2024-11-20T19:03:04.617Z"
+  },
+  {
+    "sequencial": 6,
+    "etiqueta": "123456789101",
+    "endereco": "ACOR0021",
+    "dataHora": "2024-11-20T19:15:49.480Z"
+  },
+  {
+    "sequencial": 7,
+    "etiqueta": "234567891011",
+    "endereco": "D15RMER002",
+    "dataHora": "2024-11-20T19:16:21.872Z"
+  },
+  {
+    "sequencial": 8,
+    "etiqueta": "235367891011",
+    "endereco": "D15RMER002",
+    "dataHora": "2024-11-20T19:27:27.293Z"
+  },
+  {
+    "sequencial": 9,
+    "etiqueta": "123456789101",
+    "endereco": "D15RMER002",
+    "dataHora": "2024-11-20T19:48:43.305Z"
+  },
+  {
+    "sequencial": 10,
+    "etiqueta": "120504024154",
+    "endereco": "ddd",
+    "dataHora": "2024-11-20T19:53:49.095Z"
+  },
+  {
+    "sequencial": 11,
+    "etiqueta": "123456789101",
+    "endereco": "ACOR0021",
+    "dataHora": "2024-11-20T19:56:56.353Z"
+  },
+  {
+    "sequencial": 12,
+    "etiqueta": "123456789101",
+    "endereco": "D15RMER002",
+    "dataHora": "2024-11-20T19:57:15.010Z"
+  },
+  {
+    "sequencial": 13,
+    "etiqueta": "123456789101",
+    "endereco": "D15RMER002",
+    "dataHora": "2024-11-20T20:13:20.050Z"
+  },
+  {
+    "sequencial": 14,
+    "etiqueta": "123456789102",
+    "endereco": "D15RMER002",
+    "dataHora": "2024-11-20T20:14:57.297Z"
+  }
+]
