@@ -82,5 +82,41 @@
     "etiqueta": "123456789102",
     "endereco": "D15RMER002",
     "dataHora": "2024-11-20T20:14:57.297Z"
+  },
+  {
+    "sequencial": 15,
+    "etiqueta": "210043272397",
+    "endereco": "A100014",
+    "dataHora": "2024-11-20T23:43:59.059Z"
+  },
+  {
+    "sequencial": 16,
+    "etiqueta": "210043275832",
+    "endereco": "A100052",
+    "dataHora": "2024-11-20T23:44:06.045Z"
+  },
+  {
+    "sequencial": 17,
+    "etiqueta": "210042287158",
+    "endereco": "A100062",
+    "dataHora": "2024-11-20T23:44:12.065Z"
+  },
+  {
+    "sequencial": 18,
+    "etiqueta": "210042287159",
+    "endereco": "BLBL001",
+    "dataHora": "2024-11-20T23:47:17.864Z"
+  },
+  {
+    "sequencial": 19,
+    "etiqueta": "210042287157",
+    "endereco": "BLBL001",
+    "dataHora": "2024-11-20T23:50:33.250Z"
+  },
+  {
+    "sequencial": 20,
+    "etiqueta": "210042287156",
+    "endereco": "blbl001",
+    "dataHora": "2024-11-20T23:50:50.029Z"
   }
 ]
